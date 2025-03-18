@@ -6,7 +6,7 @@ import re
 
 # Directly set the Groq API key in the code
 # Replace this with your actual Groq API key
-GROQ_API_KEY = "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"  # Replace with your actual key
+GROQ_API_KEY = YOUR API KEY  # Replace with your actual key
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Initialize session state variables if they don't exist
@@ -268,4 +268,3 @@ if not st.session_state.conversation_ended:
 else:
     st.info("Conversation ended. Refresh the page to start a new conversation.")
 
-# Admin panel completely removed for production version
