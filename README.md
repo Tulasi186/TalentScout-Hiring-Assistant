@@ -106,3 +106,9 @@ This approach ensures that the language model receives clear guidance on what in
 4. **UI Enhancements**: Add custom styling and interactive elements.
 5. **Response Optimization**: Improve response times and handling of edge cases.
 6. **Integration**: Connect with ATS (Applicant Tracking Systems) for seamless recruitment workflows.
+
+## OUTPUT
+
+
+![image](https://github.com/user-attachments/assets/1b9a4204-d342-4ad7-8b0c-c498445ac42a)
+
